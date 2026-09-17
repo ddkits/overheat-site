@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://overheat.reallexi.io/sitemap.xml
